@@ -1,0 +1,7 @@
+# Ignore Jupyter Notebook backups
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Ignore data files (if you had real private data)
+*.csv
+*.xlsx
