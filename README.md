@@ -8,6 +8,9 @@ To analyse customer subscription data and identify **why customers are cancellin
 ## 📊 Key Insights
 1.  **The "5-Call" Rule:** Customers who call support >5 times have a near 100% churn rate.
 2.  **Pricing Sensitivity:** Enterprise users ($299) are more loyal than Basic users ($29).
+3.  ... (Your existing text about the 98% correlation is here)
+### 
+This visualisation highlights the correlation between high support call volume and customer attrition.
 
 ## 🛠️ Tech Stack
 * **Python (Pandas):** For data generation and cleaning.
